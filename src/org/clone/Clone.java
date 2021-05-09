@@ -8,6 +8,12 @@ public class Clone {
 
 		String S = "Cloned Project";
 		System.out.println(S);
+		
+		String S1 = "Branch two";
+		System.out.println(S1);
+		
+		
+		
 	}
 
 }
